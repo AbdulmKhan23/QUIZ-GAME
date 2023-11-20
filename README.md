@@ -8,4 +8,4 @@ It uses a splash screen for basic animation that launches the user into Sign up/
 *****NOTE*****
 To use the sign in email and password and various other features, the project has to be connected to the Firebase and import the various dependencies.
 For the questions to displayed  in the app, the dev has to input the questions, answers and the correct answers in the realtime database manually.
-Using the key value we can display the question and answers.
+Using the key value we can display the question, answers and check for the correct answers.
